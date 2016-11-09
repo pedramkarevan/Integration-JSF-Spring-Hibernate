@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JSF-Spring_Hibernate
+Bundle-SymbolicName: JSF-Spring_Hibernate
+Bundle-Version: 1.0.0.qualifier

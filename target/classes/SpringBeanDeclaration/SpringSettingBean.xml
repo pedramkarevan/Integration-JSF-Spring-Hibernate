@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+<!-- 
+	<bean id="contractDao" class="dao.implementation.demands.ContractDAOImpl">
+		<property name="hibernateTemplate" ref="hibernateTemplate"></property>
+	</bean>
+
+	<bean id="contractBo" class="bussiness.impl.demands.ContractBoImpl">
+		<property name="contractDao" ref="contractDao"></property>
+	</bean>
+
+	<bean id="contract" class="service.demands.ContractBean" scope="session">
+		<property name="contractBo" ref="contractBo"></property>
+	</bean> -->
+
+</beans>
